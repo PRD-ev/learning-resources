@@ -157,7 +157,7 @@ Linie wymiarowe są cienkie i rysowane w odległości 10mm od linii wymiarowych,
 
 - TB (Terabajt) 1TB - 1024GB
 
-### Wybrane jednostki szybkości
+### Wybrane jednostki przepustowości
 
 - bps (bits per second)
 
@@ -198,7 +198,7 @@ Linie wymiarowe są cienkie i rysowane w odległości 10mm od linii wymiarowych,
 
 ### Sieci lokalne w standardzie Ethernet
 
-| Nazwa |Max. prędkość   |
+| Nazwa |Max. przepustowość   |
 | --- | --- |
 | Ethernet | 10Mb/s |
 | FastEthernet | 100Mb/s |
