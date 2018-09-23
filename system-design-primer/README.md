@@ -1,3 +1,5 @@
+[VIEW FULL REPOSITORY](https://github.com/donnemartin/system-design-primer)
+
 # The System Design Primer
 
 <p align="center">
