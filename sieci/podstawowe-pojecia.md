@@ -121,15 +121,15 @@ Linie wymiarowe są cienkie i rysowane w odległości 10mm od linii wymiarowych,
 
 
 
-![lan_connection_symbol](/Users/pniedzwiedzinski/Documents/Projekty/learning-resources/sieci/media/lan_connection_symbol.png)
+![lan_connection_symbol](media/lan_connection_symbol.png)
 
-![wan_connection_symbol](/Users/pniedzwiedzinski/Documents/Projekty/learning-resources/sieci/media/wan_connection_symbol.png)
+![wan_connection_symbol](media/wan_connection_symbol.png)
 
-![wireless_connection_symbol](/Users/pniedzwiedzinski/Documents/Projekty/learning-resources/sieci/media/wireless_connection_symbol.png)
+![wireless_connection_symbol](media/wireless_connection_symbol.png)
 
 #### Symbole graficzne przydatne podczas projektu sieci lokalnej
 
-![symbole_graficzne_sieci_lokalnych](/Users/pniedzwiedzinski/Documents/Projekty/learning-resources/sieci/media/symbole_graficzne_sieci_lokalnych.png)
+![symbole_graficzne_sieci_lokalnych](media/symbole_graficzne_sieci_lokalnych.png)
 
 
 
