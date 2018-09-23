@@ -1,10 +1,12 @@
 # Podstawowe pojęcia dotyczące lokalnej sieci komputerowej
 
-Sieć Komputerowa to system do przesyłania danych składający się z co najmniej dwóch urządzeń komputerowych. Sieci pozwalają na wymianę danych, korzystanie z urządzeń peryferyjnych, wspólnych baz danych, oprogramowania i plików.
+Sieć Komputerowa to system do przesyłania danych składający się z <u>co najmniej dwóch</u> urządzeń komputerowych. Sieci pozwalają na wymianę danych, korzystanie z urządzeń peryferyjnych, wspólnych baz danych, oprogramowania i plików.
 
-Pierwszą siecią komputerową był ARPANET którego celem było połączenie uniwersytetów. ETHERNET to nowszy protokół, mniej awaryjny, spopularyzował się równie szybko jak ARPANET i wyparł pozostałe protokoły. Firmy komercyjne i agencje rządowe stać było na takie rozwiązania natomiast zwykłego użytkownika nie, sytuacja zmieniła się w latach 80. gdy pojawiła się łączność modemowa BBS. Modem kodował informacje z komputera z cyfrowego na analogowy i analogowego na cyfrowy do komputera.
+Pierwszą siecią komputerową był <u>ARPANET</u> którego celem było połączenie uniwersytetów w USA. 
 
-INTERNET połączenie różnych mniejszych sieci, nazwę ARPANET zamieniono na INTERNET.
+<u>ETHERNET</u> to nowszy protokół, mniej awaryjny, spopularyzował się równie szybko jak ARPANET i wyparł pozostałe protokoły. Firmy komercyjne i agencje rządowe stać było na takie rozwiązania natomiast zwykłego użytkownika nie, sytuacja zmieniła się w latach 80. gdy pojawiła się łączność modemowa <u>BBS (Bulletin Board System)</u>. Modem kodował informacje z komputera z cyfrowego na analogowy i analogowego na cyfrowy do komputera (połączenie <u>point-point</u>).
+
+<u>INTERNET</u> połączenie różnych mniejszych sieci, nazwę ARPANET zamieniono na INTERNET.
 
 ## Typy sieci ze względu na obszar, przeznaczenie i przepustowość.
 
@@ -22,51 +24,55 @@ INTERNET połączenie różnych mniejszych sieci, nazwę ARPANET zamieniono na I
 
 ### Urządzenia transmisji:
 
- Materialne - kable i światłowody
+- Materialne - kable i światłowody
 
- Niematerialne - fale radiowe
+- Niematerialne - fale radiowe
 
 ### Urządzenia Dostępu:
 
- Karty Sieciowe
+- Karty Sieciowe
 
- Modemy
+- Modemy
 
- Karty Bezprzewodowe
+- Karty Bezprzewodowe
 
 ### Urządzenia Wzmacniania Sygnałów
 
- Wzmacniacze Sygnału
+- Wzmacniacze Sygnału
 
 ## Elementy Programowe
 
-Protokoły - określają sposoby komunikowania się urządzeń.
+- Protokoły - określają sposoby komunikowania się urządzeń.
 
-Sterowniki Urządzeń - umożliwiają działanie urządzeń.
+- Sterowniki Urządzeń - umożliwiają działanie urządzeń.
 
-Oprogramowanie Komunikacyjne - programy umożliwiające przesyłanie plików i danych
+- Oprogramowanie Komunikacyjne - programy umożliwiające przesyłanie plików i danych
 
 ## Łącza komunikacyjne
 
 Węzły Sieci - zbiega wiele sygnałów ze sobą i przekazuje go dalej. (rouetry, switche)
 
-Serwer i Klient
+- Serwer - udostępnia zasoby
 
-Szafy sieciowe - do ergonomicznej organizacji miejsca, wymiary podaje się w u, najczęstrza szerkośc to 10 cali.
+- Klient - korzysta z zasobów
 
-Adresy - aby dane były swobodnie przemieszczane każde urządzenie powinno mieć przypisany swój jednoznaczny identyfikator (ip, zmienia się w zależności od miejsca podłączenia) oraz niepowtarzalny indywidualny adres MAC.
+Szafy sieciowe - do ergonomicznej organizacji miejsca, wymiary podaje się w u (1,75" = 44,5mm), szerkość 10" lub 19".
 
-Czytanie rzutów pionowych i poziomych budynków
+Adresy - aby dane były swobodnie przemieszczane każde urządzenie powinno mieć przypisany swój jednoznaczny adres IP (zmienia się w zależności od miejsca podłączenia) oraz niepowtarzalny indywidualny identyfikator MAC.
 
-była ciuchcia
+## Wymiarowanie
+
+**Wymiary A4: 210x297**
+
+![Wymiarowanie](media/wymiarowanie.jpg)
 
 Wymiarowanie jest to podawanie wymiarów przedmiotów na rysunkach technicznych za pomocą linii, liczb i znaków wymiarowych.
 
 Umożliwia ono odczytanie rysunku i wykonanie przedmiotu zgodnie z wymaganiami konstruktora. Rysunek techniczny będący podstawą wykonania przedmiotu, narysowany bez wymiarów albo z błędami i brakami w zakresie wymiarowania nie ma żadnej wartości.
 
-### Znaki wymiarowe:
+### Znaki wymiarowe
 
-Linie Pomocnicze
+Linie Pomocnicze - 
 
 Strzałki Wymiarowe grot około 20 stopni, wyjątkowo można zastąpić go linią bądź kropkami
 
@@ -89,7 +95,7 @@ Na rysunku podaje się wymiary rzeczywiste w minimetrach (chyba że tabelka poda
 
 Linie wymiarowe są cienkie i rysowane w odległości 10mm od linii wymiarowych, nie mniejszej niż 7mm od poprzednich.
 
-#### Zasady Wymiarowania
+### Zasady Wymiarowania
 
 - Wymiarowanie rozpoczynamy od podawania wymiarów najmniejszych
 - Linie nie powinny się krzyżować z innymi liniami
@@ -105,9 +111,31 @@ Linie wymiarowe są cienkie i rysowane w odległości 10mm od linii wymiarowych,
 
 ## Symbole graficzne urządzeń sieciowych
 
+![Symbols](media/cisco-symbols1.png)
+
+
+
+
+
+![Modem](media/modem.png)
+
+
+
+![lan_connection_symbol](/Users/pniedzwiedzinski/Documents/Projekty/learning-resources/sieci/media/lan_connection_symbol.png)
+
+![wan_connection_symbol](/Users/pniedzwiedzinski/Documents/Projekty/learning-resources/sieci/media/wan_connection_symbol.png)
+
+![wireless_connection_symbol](/Users/pniedzwiedzinski/Documents/Projekty/learning-resources/sieci/media/wireless_connection_symbol.png)
+
+#### Symbole graficzne przydatne podczas projektu sieci lokalnej
+
+![symbole_graficzne_sieci_lokalnych](/Users/pniedzwiedzinski/Documents/Projekty/learning-resources/sieci/media/symbole_graficzne_sieci_lokalnych.png)
+
+
+
 ## Jednostki miar w sieciach komputerowych oraz parametry techniczne
 
-#### Jednostki pojemności pamięci
+### Jednostki pojemności pamięci
 
 - b (bit) 0 albo 1 (włączony/wyłączony)
 
@@ -129,7 +157,7 @@ Linie wymiarowe są cienkie i rysowane w odległości 10mm od linii wymiarowych,
 
 - TB (Terabajt) 1TB - 1024GB
 
-#### Wybrane jednostki szybkości
+### Wybrane jednostki szybkości
 
 - bps (bits per second)
 
@@ -141,9 +169,7 @@ Linie wymiarowe są cienkie i rysowane w odległości 10mm od linii wymiarowych,
 
 - rpm (rounds per mitue) (obroty dysku na minute)
 
-
-
-Wybrane jednostki gęstości i rozdzielczości
+### Wybrane jednostki gęstości i rozdzielczości
 
 - bpi (bits per inch)
 
@@ -153,7 +179,7 @@ Wybrane jednostki gęstości i rozdzielczości
 
 - tpi (tracks per inch)
 
-Jednostki czasu używane w komputerach
+### Jednostki czasu używane w komputerach
 
 - ms milisekunda 1 ms = 0,001s
 
@@ -163,11 +189,12 @@ Jednostki czasu używane w komputerach
 
 ### Jednostki mocy obliczeniowej
 
-MIPS (Milion Instructions Per Second) - Liczba Milionów operacji (rozkazów na sekunde\_
+- MIPS (Milion Instructions Per Second) - Liczba milionów operacji na sekundę
 
-MFLOPS (Milion Floating Point Operations per Second)
+- MFLOPS (megaflops, Milion Floating Point Operations per Second) - Liczba milionów operacji zmiennoprzecinkowych na sekundę
 
-PFLOPS
+- TFLOPS  (teraflops)
+- PFLOPS (petaflops)
 
 ### Sieci lokalne w standardzie Ethernet
 
@@ -179,8 +206,6 @@ PFLOPS
 | 10GigabitEthernet | 10000Mb/s |
 | 100GigabitEthenret | 100000Mb/s |
 
+<u>Bilans mocy linii światłowodowej</u> - maksymalny zasięg światłowodu, w dB. Wartość wyrażona w dB wyraża wzrost (dodatnia) lub spadek (ujemna) mocy. Liczba decybeli pozwala stwierdzić ile energii pozostało w falii radiowej np. po pokonaniu określonej odległości
 
-
-Wartość wyrażona w dB wyraża wzrost (dodatnia) lub spadek (ujemna) mocy. Liczba decybeli pozwala stwierdzić ile energii pozostało w falii radiowej np. po pokonaniu określonej odległości
-
-SNR - Parametr stosunku sygnału do szumu. Określa wartość w dB użytecznego sygnału.
+<u>SNR</u> - stosunek sygnału do szumu (dB), określa moc użytecznego sygnału
