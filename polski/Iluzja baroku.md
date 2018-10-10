@@ -4,7 +4,7 @@
 
 | 1563            | 1721                   |
 | --------------- | ---------------------- |
-| sobór trydencki | koncerty brandenburski |
+| sobór trydencki | koncerty brandenburskie |
 
 #### Polska
 
@@ -12,7 +12,7 @@
 | ---------------- | ---------------------------- |
 | Zygmunt III Waza | Stanisław August Poniatowski |
 
-**Barok** - perła o nieregularnych kształtach
+**Barok** - *z portugalskiego* perła o nieregularnych kształtach
 
 - wyrazistość
 - dynamizm
