@@ -12,7 +12,7 @@
 | ---------------- | ---------------------------- |
 | Zygmunt III Waza | Stanisław August Poniatowski |
 
-**Barok** - *z portugalskiego* perła o nieregularnych kształtach
+**Barok** - *z portugalskiego* perła o nieregularnych kształtach - **barok zaskakuje**
 
 - wyrazistość
 - dynamizm
