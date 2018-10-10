@@ -91,7 +91,7 @@ antytezy
 
 ### Daniel Naborowski
 
-#### " Na oczy królewny angielskiej, która była za Fryderykiem Falcgrafem reńskim, obranym królem czeskim"*
+#### " Na oczy królewny angielskiej, która była za Fryderykiem, falcgrafem reńskim, obranym królem czeskim"*
 
 porównanie oczy do coraz ładniejszych rzeczy (pochodnie, gwiazdy, słońce, bogowie)
 
