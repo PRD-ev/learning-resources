@@ -4,7 +4,7 @@
 
 | 1563            | 1721                   |
 | --------------- | ---------------------- |
-| sobór trydencki | koncerty brandenburski |
+| sobór trydencki | koncerty brandenburskie |
 
 #### Polska
 
@@ -12,7 +12,7 @@
 | ---------------- | ---------------------------- |
 | Zygmunt III Waza | Stanisław August Poniatowski |
 
-**Barok** - perła o nieregularnych kształtach
+**Barok** - *z portugalskiego* perła o nieregularnych kształtach - **barok zaskakuje**
 
 - wyrazistość
 - dynamizm
@@ -91,7 +91,7 @@ antytezy
 
 ### Daniel Naborowski
 
-####" Na oczy królewny angielskiej, która była za Fryderykiem Falcgrafem reńskim, obranym królem czeskim"*
+#### " Na oczy królewny angielskiej, która była za Fryderykiem, falcgrafem reńskim, obranym królem czeskim"*
 
 porównanie oczy do coraz ładniejszych rzeczy (pochodnie, gwiazdy, słońce, bogowie)
 
